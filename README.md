@@ -17,5 +17,5 @@ part 3 : Sharing files with other developers on github
 part 4 : cloning
 
 part 5.1 : branching & merging
-part 5.2 : cleaning up : deleting unneeded branches
 
+part 5.2 : cleaning up : deleting unneeded branches
