@@ -19,3 +19,5 @@ part 4 : cloning
 part 5.1 : branching & merging
 
 part 5.2 : cleaning up : deleting unneeded branches
+
+part 6 TBD : deleting & cleaning up repos
